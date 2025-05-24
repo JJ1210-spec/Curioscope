@@ -57,20 +57,20 @@ cd curioscope
 ```
 ---
 
-## 👨‍💻 ** Authors **
+## 👨‍💻 **Authors**
 
 This project was developed during a hackathon by the following team members:
 
-- 👤 ** Dinesh Kumar CP** – Backend & AI Integration  
+- 👤 **Dinesh Kumar CP** – Backend & AI Integration  
   🔗 [GitHub](https://github.com/dinuhifi)
 
-- 👤 ** Santosh A** – UI/UX Design & Streamlit Styling  
+- 👤 **Santosh A** – UI/UX Design & Streamlit Styling  
   🔗 [GitHub](https://github.com/sandy040406)
 
-- 👤 ** Jaiyanth Jitendra P** – YOLO Model Integration & Object Detection  
+- 👤 **Jaiyanth Jitendra P** – YOLO Model Integration & Object Detection  
   🔗 [GitHub](https://github.com/JJ1210-spec)
 
-- 👤 ** Adhithya S** – Quiz System & Gemini Prompt Engineering  
+- 👤 **Adhithya S** – Quiz System & Gemini Prompt Engineering  
   🔗 [GitHub](https://github.com/Adhithya100)
 
 
