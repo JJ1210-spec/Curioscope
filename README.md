@@ -54,23 +54,24 @@ CurioScope is a Streamlit-based interactive app that combines **real-time object
 ```bash
 git clone https://github.com/JJ1210-spec/curioscope.git
 cd curioscope
-
+```
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 ** Authors **
 
 This project was developed during a hackathon by the following team members:
 
-- 👤 **Dinesh Kumar CP ** – Backend & AI Integration  
-  [GitHub](https://github.com/dinuhifi))
+- 👤 ** Dinesh Kumar CP** – Backend & AI Integration  
+  🔗 [GitHub](https://github.com/dinuhifi)
 
-- 👤 **Santosh A** – UI/UX Design & Streamlit Styling  
-  [GitHub](https://github.com/sandy040406)
+- 👤 ** Santosh A** – UI/UX Design & Streamlit Styling  
+  🔗 [GitHub](https://github.com/sandy040406)
 
-- 👤 **Jaiyanth Jitendra P** – YOLO Model Integration & Object Detection  
-  [GitHub](https://github.com/JJ1210-spec) 
+- 👤 ** Jaiyanth Jitendra P** – YOLO Model Integration & Object Detection  
+  🔗 [GitHub](https://github.com/JJ1210-spec)
 
-- 👤 **Adhithya S** – Quiz System & Gemini Prompt Engineering  
-  [GitHub](https://github.com/Adhithya100)
+- 👤 ** Adhithya S** – Quiz System & Gemini Prompt Engineering  
+  🔗 [GitHub](https://github.com/Adhithya100)
+
 
 
