@@ -9,7 +9,7 @@ import hashlib
 from ultralytics import YOLO
 from streamlit.components.v1 import html
 
-genai.configure(api_key="AIzaSyAvG6pLQmOlcjpkpD_z1sj_K1VpHBI7i3Y")  
+genai.configure(api_key="YOUR_GEMINI_API_KEY")  
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 CONFIDENCE_THRESHOLD = 0.5
